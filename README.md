@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vsy4whtpdskvcu2g?svg=true)](https://ci.appveyor.com/project/MKSInc/ahj-hw-2-dom-1-moving-an-item)
+### [Gh-page](https://mksinc.github.io/AHJ-hw.-2-DOM.-1-Moving-an-item/)
 # 2. Домашнее задание к лекции «DOM»
 
 Правила сдачи задания:
